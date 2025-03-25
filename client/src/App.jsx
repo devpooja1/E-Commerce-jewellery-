@@ -1,16 +1,17 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Layout from "./Layout";
 import Home from "./pages/Home";
-import Dashboard from "./pages/dashboard";
+
 import Admin from "./pages/Admin";
 import InsertProduct from "./pages/Insert";
 import JewelryTable from "./pages/Display";
 import Update from "./pages/Update";
 import EditData from "./pages/editData";
-import Search from "./pages/search";
+import Search from "./pages/Search";
 import HighProduct from "./pages/highProduct";
 import LoginSystem from "./pages/Login";
 import ResetPassword from "./pages/ResetPass";
+import Dashboard from "./pages/Dashboard";
 
 
 
